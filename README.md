@@ -4,12 +4,12 @@ NOTE: Given `story.txt` with sample paragraph
 
 #### Input
 ```
-Enter Length of Words: 5
+Enter Length of Words: 8
 ```
 
 #### Output : (Print only unique words in sorted order and in lower case)
 ```
-Following Unique words of length 5 present: 
+Following Unique words of length 8 present: ['"judging', 'desires.', 'husband,', 'neighbor', 'outside.', 'replied,', 'watching']
 ```
 
 ### Tips:
@@ -18,4 +18,5 @@ Following Unique words of length 5 present:
 3. Convert to lower case using `.lower()` function
 
 ### Sample Output
+
 ![Output](output.png)
